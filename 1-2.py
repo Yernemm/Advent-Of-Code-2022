@@ -1,0 +1,1 @@
+dataFile = open("1-1-input.txt", "r")
